@@ -57,7 +57,7 @@ Compaction strategies: how to know what content to throw out of a session withou
   - you can’t reliably predict which observation might become critical ten steps later
   - treats the file system as ultimate context in Manus
   - meaning, their compression strategies are always designed to be **restorable**
-    - ex. content of web page can be dropped from context as longa s the URL is preserved
+    - ex. content of web page can be dropped from context as long as the URL is preserved
     - document’s context can be omitted if its path remains in the sandbox
     - allows Manus to shrink context length without permanently losing info
 - Manipulate attention through recitation
@@ -118,8 +118,8 @@ Compaction strategies: how to know what content to throw out of a session withou
 **Four stages:**
 
 1. Ingestion: when client provides a source of raw data
-2. Extractoin & filtering: memory manger uses LLM to extract meaningful content from source data. only captures info that fits a predefined topic definition.
-3. Consolidatoin: most sophisticated stage, where manager handles conflict resolution and deduplication
+2. Extraction & filtering: memory manger uses LLM to extract meaningful content from source data. only captures info that fits a predefined topic definition.
+3. Consolidation: most sophisticated stage, where manager handles conflict resolution and deduplication
    - performs “self-editing” process, using LLM to compare new extracted info with existing memories
    - it can decide to 1) merge, 2) delete, 3) create
 4. Storage: new/updated memory is persisted to a durable storage layer
@@ -225,7 +225,7 @@ Constraints:
 1. Memory generation quality:
    - precision: Of all the memories the agent created, what percentage are accurate and
      relevant?
-   - recall: of all the relevant facts it should have remembered from the soruce, what percentage did it capture?
+   - recall: of all the relevant facts it should have remembered from the source, what percentage did it capture?
    - f1-score: combination of precision and recall
 2. Retrieval performance
    - recall@K: When a memory is needed, is the correct one found within the top 'K' retrieved
