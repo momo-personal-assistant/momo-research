@@ -39,7 +39,7 @@
 
 ---
 
-## 3. Six Experiments
+## 3. 6 Experiments
 
 ### 3.1 Needle-Question Similarity
 
