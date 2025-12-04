@@ -151,6 +151,7 @@
   - Hiding ML-related answer in writing essays = stands out, easy to find?
 
 - **Method**:
+- ![needle_haystack](https://research.trychroma.com/img/context_rot/niah/needle_haystack.png)
   1. Prepare two types of haystack:
      - **PG Essays**: Paul Graham's writing/startup essays
      - **arXiv**: Information retrieval/ML academic papers
@@ -185,6 +186,7 @@
   - But do LLMs follow the same pattern?
 
 - **Method**:
+- ![nh2](https://research.trychroma.com/img/context_rot/niah/nh2.png)
   1. Create two versions from same text:
      - **Original**: As-is, paragraphs/sentences in logical order
      - **Shuffled**: Same sentences randomly rearranged (same content, different order)
