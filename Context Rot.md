@@ -1,4 +1,4 @@
-# Context Rot Guide
+# Context Rot Guide from [Chroma Research](https://research.trychroma.com/context-rot)*
 
 > How Increasing Input Tokens Impacts LLM Performance
 
