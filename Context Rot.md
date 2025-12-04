@@ -9,7 +9,7 @@
 ### Why This Research
 
 - **Problem**: NIAH (Needle in a Haystack) is the standard benchmark for long-context LLM performance
-  - Hides info ("The secret code is 7392") in long documents, asks model to find it
+  - Hides info in long documents, asks model to find it
   - Most models score near-perfect → "long-context is solved" belief
 - **But NIAH only tests lexical matching** (question and answer share keywords)
   - Doesn't test semantic inference
