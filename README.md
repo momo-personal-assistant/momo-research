@@ -30,6 +30,10 @@ Concise breakdowns of key papers, including:
 - [Multi-Agent Collaboration via Evolving Orchestration](https://arxiv.org/abs/2505.19591)
 - [CodeAct: Executable Code Actions Elicit Better LLM Agents](https://arxiv.org/abs/2402.01030)
 - [Recursive Language Models](https://alexzhang13.github.io/blog/2025/rlm/)
+- [DARWIN GÖDEL MACHINE: OPEN-ENDED EVOLUTION OF SELF-IMPROVING AGENTS](https://arxiv.org/pdf/2505.22954)
+- [AUTOMATED DESIGN OF AGENTIC SYSTEMS](https://arxiv.org/pdf/2408.08435)
+- [OMNI-EPIC: OPEN-ENDEDNESS VIA MODELS OF HUMAN NOTIONS OF INTERESTINGNESS WITH ENVIRONMENTS PROGRAMMED IN CODE](https://arxiv.org/pdf/2405.15568)
+- [Ontology Embedding: A Survey of Methods, Applications and Resources](https://arxiv.org/pdf/2406.10964)
 
 Let me know if there are other memory related papers.
 
